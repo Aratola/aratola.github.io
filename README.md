@@ -5,4 +5,10 @@ I carried out an end-end analysis on Oxford Community data to identify the gap i
 
 ![OxfordFile](OxfordFile.PNG)
 
+[Project 2 : HR Dashboard](https://github.com/Aratola/aratola.github.io)
+
+This dashboard shows
+
+![HR Dashboard](HR Dashboard.PNG)
+
 [Project 2 : HR Dashboard]
