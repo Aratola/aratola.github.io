@@ -7,7 +7,7 @@ The Power BI dashboard summarizes the health metrics of adolescents in Oxford co
 
 [Project 2 : HR Dashboard](https://github.com/Aratola/aratola.github.io)
 
-This dashboard shows
+Welcome to the comprehensive HR Insights Power BI dashboard, offering a 360-degree view of our workforce. This dynamic presentation encapsulates key elements: gender distribution, illustrating the percentage of female and male staff; the geographical spread, mapping the distance of our workforce from the office; a strategic overview of retirement eligibility, distinguishing those due for retirement and those not; a snapshot of job levels to gauge organizational hierarchy; and a targeted focus on career development, highlighting employees due for promotion and those not in line for advancement. With a lens on service years, this dashboard paints a vivid picture of our diverse and evolving workforce, providing actionable insights for strategic HR decision-making.
 
 ![HrDashboard](HrDashboard.PNG)
 
