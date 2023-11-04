@@ -11,3 +11,7 @@ Welcome to the comprehensive HR Insights Power BI dashboard, offering a 360-degr
 
 ![HrDashboard](HrDashboard.PNG)
 
+[Project 3 : Prime Health Insurance Dashboard](https://github.com/Aratola/aratola.github.io)
+k
+
+![
